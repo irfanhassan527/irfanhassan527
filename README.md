@@ -13,7 +13,6 @@
 - Gmail: <a href = "#">irfanhassan527@gmail.com</a>
 - ResearchGate: <a href = "https://www.researchgate.net/profile/Irfan-Hassan-8">Irfan Hassan</a>
 - LinkedIn: <a href = "https://www.linkedin.com/in/mrirfanhassan//">Irfan Hassan</a>
-- Website: https://irfanhassan527.github.io/
   
 </p>
 
